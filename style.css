@@ -1,11 +1,14 @@
 body {
-    background-color: rgb(97, 28, 217);
+    background-image: url("https://thumbs.dreamstime.com/b/porec-croatia-glass-local-beer-ozujsko-year-written-served-restaurant-wooden-table-sea-background-193926659.jpg");
 }
 h1 {
-        color:maroon;
+        color:rgb(193, 27, 27);
         font-size: 50px;
         text-align: center;
+        background-color: black;
 }
 p{
     text-align: center;
+    color: rgb(195, 161, 117);
+    background-color: black;
 }
